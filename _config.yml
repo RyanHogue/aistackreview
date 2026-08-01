@@ -1,0 +1,18 @@
+# ===== Cấu hình blog =====
+# Sửa 3 dòng dưới đây nếu muốn đổi tên blog.
+
+title: "AI Stack Review"
+description: "AI tool comparisons — pricing, features and verified user reviews, without the guesswork."
+lang: en
+
+# Đừng đụng vào phần dưới này.
+url: "https://aistackreview.com"
+baseurl: ""
+plugins:
+  - jekyll-sitemap
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - README.md
