@@ -19,3 +19,4 @@ vendor's own pricing/feature page or to published user reviews, and we say so on
 
 - [CustomGPT.ai Review 2026: Pricing, Features & Is It Worth It?]({{ '/customgpt-ai-review-2026' | relative_url }}) — a RAG-based AI chatbot builder, priced $99–$499/mo
 - [Systeme.io Review 2026: Pricing, Features & Is the Free Plan Enough?]({{ '/systeme-io-review-2026' | relative_url }}) — an all-in-one funnel/email/course platform, free plan + $17–$97/mo tiers
+- [LiveChat Review 2026: Pricing, Features & Who It's Actually For]({{ '/livechat-review-2026' | relative_url }}) — real-time support chat + AI Copilot + 200 integrations, ~$19–$79/agent/mo
