@@ -17,4 +17,4 @@ vendor's own pricing/feature page or to published user reviews, and we say so on
 
 ## 🤖 Guides
 
-*New site — first guides coming soon.*
+- [CustomGPT.ai Review 2026: Pricing, Features & Is It Worth It?]({{ '/customgpt-ai-review-2026' | relative_url }}) — a RAG-based AI chatbot builder, priced $99–$499/mo
